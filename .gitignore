@@ -2,5 +2,4 @@
 __pycache__
 static
 PrimerEnv
-db.sqlite3
 .DS_Store
